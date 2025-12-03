@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "category": ["AI", "Machine Learning"],
+    "duration": "60",
+    "description": "A deep dive into the latest advancements in AI and what to expect in the coming years."
+  },
+  {
+    "title": "Quantum Computing: A New Paradigm",
+    "speakers": ["Prof. Kenji Tanaka"],
+    "category": ["Quantum Computing", "Physics"],
+    "duration": "60",
+    "description": "Exploring the principles of quantum computing and its potential to revolutionize technology."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["Maria Garcia", "David Chen"],
+    "category": ["Web Development", "Scalability"],
+    "duration": "60",
+    "description": "Best practices for designing and implementing web applications that can handle millions of users."
+  },
+  {
+    "title": "The Ethics of Genetic Engineering",
+    "speakers": ["Dr. Lena Petrova"],
+    "category": ["Bioethics", "Genetics"],
+    "duration": "60",
+    "description": "A discussion on the moral and ethical implications of genetic engineering technologies."
+  },
+  {
+    "title": "Cybersecurity in a Connected World",
+    "speakers": ["John 'Hack' Smith"],
+    "category": ["Cybersecurity", "Networking"],
+    "duration": "60",
+    "description": "An overview of the current cybersecurity landscape and how to protect against emerging threats."
+  },
+  {
+    "title": "The Role of Blockchain in Modern Finance",
+    "speakers": ["Sarah Jenkins"],
+    "category": ["Blockchain", "Finance"],
+    "duration": "60",
+    "description": "How blockchain technology is transforming the financial industry and what it means for the future of money."
+  }
+]
